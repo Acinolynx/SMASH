@@ -43,8 +43,8 @@ rightPaddleImage.src = "asset/racket.png"; // Use the same or different image
 var ballRadius = 10;
 var ballX = canvas.width / 2;
 var ballY = canvas.height / 2;
-var ballSpeedX = 4; // Slower ball speed
-var ballSpeedY = 4; // Slower ball speed
+var ballSpeedX = 5; // Slower ball speed
+var ballSpeedY = 5; // Slower ball speed
 
 // Define paddle properties
 var paddleHeight = 150; // Increased paddle height for better visibility
